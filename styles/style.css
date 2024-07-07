@@ -8,7 +8,7 @@ h1,
 h2,
 h3 {
   text-align: center;
-  margin: 0;
+  margin: 60px;
 }
 
 h1 {
@@ -26,6 +26,10 @@ h3 {
 
 p {
   font-size: 18px;
+}
+
+button {
+  text-align: center;
 }
 
 .about-paragraph {
@@ -49,6 +53,8 @@ p {
   text-transform: capitalize;
 }
 
+.contact {
+}
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
